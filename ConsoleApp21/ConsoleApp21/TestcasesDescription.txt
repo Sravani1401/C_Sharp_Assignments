@@ -1,0 +1,44 @@
+#TestCase1
+Description: checking with empty value
+input:""
+Expected results:There are no 4 digits in givenValue
+output:There are no 4 digits in givenValue
+
+
+#TestCase2
+Description: checking with less than 4 digits
+input:12
+Expected results:There are no 4 digits in givenValue
+output:There are no 4 digits in givenValue
+ 
+
+
+#TestCase3
+Description : checking with alphabets
+input:abcd
+Expected results:There should be only  positive numerical values
+output:There should be only  positive numerical values
+ 
+
+
+#TestCase4
+Description : checking with negative value
+input:-1234
+Expected results:There should be only  positive numerical values
+output:There should be only  positive numerical values
+
+
+#TestCase5
+Description : checking with positive value
+input:12345678
+Expected results:
+Adjacent Digits:
+5678
+MaxProduct:
+1680
+output:
+Adjacent Digits:
+5678
+MaxProduct:
+1680
+ 
