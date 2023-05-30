@@ -1,0 +1,8 @@
+C:\Users\Sravani Kashetti\source\repos\BinaryAddition\BinaryAddition\bin\Debug\BinaryAddition.exe.config
+C:\Users\Sravani Kashetti\source\repos\BinaryAddition\BinaryAddition\bin\Debug\BinaryAddition.exe
+C:\Users\Sravani Kashetti\source\repos\BinaryAddition\BinaryAddition\bin\Debug\BinaryAddition.pdb
+C:\Users\Sravani Kashetti\source\repos\BinaryAddition\BinaryAddition\obj\Debug\BinaryAddition.csproj.AssemblyReference.cache
+C:\Users\Sravani Kashetti\source\repos\BinaryAddition\BinaryAddition\obj\Debug\BinaryAddition.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sravani Kashetti\source\repos\BinaryAddition\BinaryAddition\obj\Debug\BinaryAddition.csproj.CoreCompileInputs.cache
+C:\Users\Sravani Kashetti\source\repos\BinaryAddition\BinaryAddition\obj\Debug\BinaryAddition.exe
+C:\Users\Sravani Kashetti\source\repos\BinaryAddition\BinaryAddition\obj\Debug\BinaryAddition.pdb
