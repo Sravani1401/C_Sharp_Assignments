@@ -1,0 +1,50 @@
+#TestCase1
+Description : Checking with an empty substring
+input:"abcd",""
+Expected results:Input givenstring should not be empty
+output:Input givenstring should not be empty
+
+
+
+#TestCase2
+Description : Checking with an empty string
+input:"","abcd"
+Expected results:Input givensubstring should not be empty
+output:Input givensubstring should not be empty
+
+
+
+#TestCase3
+Description : checking with an empty string ond substring
+input:"",""
+Expected results:Input givensubstring and givenstring should not be empty
+output:Input givensubstring and givenstring should not be empty
+
+
+
+#TestCase4
+Description : checking with a stringlength lesser than substringlength 
+input:"bb","bbbb"
+Expected results:Indexpositions
+                 NofSubstrings:0
+output:
+Indexpositions:
+NoofSubstrings:
+0
+
+#TestCase5
+Description : checking with valid string length greater than substringlength
+input:"abcdabcabd","ab"
+Expected results:Indexpositions:0,4,7
+                 Noofsubstrings:3
+output:
+                 Indexpositions:0,4,7
+                 Noofsubstrings:3
+#TestCase6
+Description : checking with valid string length greater than substringlength
+input:"bbbbbb","bbb"
+Expected results:Indexpositions:0,1,2,3
+                 Noofsubstrings:4
+output:
+                 Indexpositions:0,1,2,3
+                 Noofsubstrings:4
