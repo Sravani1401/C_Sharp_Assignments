@@ -1,8 +1,0 @@
-C:\Users\Sravani Kashetti\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
-C:\Users\Sravani Kashetti\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe
-C:\Users\Sravani Kashetti\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
-C:\Users\Sravani Kashetti\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\MaximumProductofAdjacentdigits.csproj.AssemblyReference.cache
-C:\Users\Sravani Kashetti\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\MaximumProductofAdjacentdigits.csproj.SuggestedBindingRedirects.cache
-C:\Users\Sravani Kashetti\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\MaximumProductofAdjacentdigits.csproj.CoreCompileInputs.cache
-C:\Users\Sravani Kashetti\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.exe
-C:\Users\Sravani Kashetti\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.pdb

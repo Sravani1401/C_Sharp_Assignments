@@ -1,8 +1,0 @@
-C:\Users\Sravani Kashetti\source\repos\one.substrings\one.substrings\obj\Debug\one.substrings.csproj.AssemblyReference.cache
-C:\Users\Sravani Kashetti\source\repos\one.substrings\one.substrings\obj\Debug\one.substrings.csproj.SuggestedBindingRedirects.cache
-C:\Users\Sravani Kashetti\source\repos\one.substrings\one.substrings\obj\Debug\one.substrings.csproj.CoreCompileInputs.cache
-C:\Users\Sravani Kashetti\source\repos\one.substrings\one.substrings\bin\Debug\one.substrings.exe.config
-C:\Users\Sravani Kashetti\source\repos\one.substrings\one.substrings\bin\Debug\one.substrings.exe
-C:\Users\Sravani Kashetti\source\repos\one.substrings\one.substrings\bin\Debug\one.substrings.pdb
-C:\Users\Sravani Kashetti\source\repos\one.substrings\one.substrings\obj\Debug\one.substrings.exe
-C:\Users\Sravani Kashetti\source\repos\one.substrings\one.substrings\obj\Debug\one.substrings.pdb

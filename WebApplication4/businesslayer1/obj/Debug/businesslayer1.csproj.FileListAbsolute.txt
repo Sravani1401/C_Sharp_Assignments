@@ -1,0 +1,6 @@
+C:\Users\Sravani Kashetti\source\repos\WebApplication4\businesslayer1\bin\Debug\businesslayer1.dll
+C:\Users\Sravani Kashetti\source\repos\WebApplication4\businesslayer1\bin\Debug\businesslayer1.pdb
+C:\Users\Sravani Kashetti\source\repos\WebApplication4\businesslayer1\obj\Debug\businesslayer1.csproj.AssemblyReference.cache
+C:\Users\Sravani Kashetti\source\repos\WebApplication4\businesslayer1\obj\Debug\businesslayer1.csproj.CoreCompileInputs.cache
+C:\Users\Sravani Kashetti\source\repos\WebApplication4\businesslayer1\obj\Debug\businesslayer1.dll
+C:\Users\Sravani Kashetti\source\repos\WebApplication4\businesslayer1\obj\Debug\businesslayer1.pdb

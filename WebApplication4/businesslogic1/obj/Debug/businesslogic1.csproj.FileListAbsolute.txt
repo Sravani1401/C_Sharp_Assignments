@@ -1,0 +1,9 @@
+C:\Users\Sravani Kashetti\source\repos\WebApplication4\businesslogic1\bin\Debug\businesslogic1.dll
+C:\Users\Sravani Kashetti\source\repos\WebApplication4\businesslogic1\bin\Debug\businesslogic1.pdb
+C:\Users\Sravani Kashetti\source\repos\WebApplication4\businesslogic1\bin\Debug\dataAccess.dll
+C:\Users\Sravani Kashetti\source\repos\WebApplication4\businesslogic1\bin\Debug\dataAccess.pdb
+C:\Users\Sravani Kashetti\source\repos\WebApplication4\businesslogic1\obj\Debug\businesslogic1.csproj.AssemblyReference.cache
+C:\Users\Sravani Kashetti\source\repos\WebApplication4\businesslogic1\obj\Debug\businesslogic1.csproj.CoreCompileInputs.cache
+C:\Users\Sravani Kashetti\source\repos\WebApplication4\businesslogic1\obj\Debug\businesslogic1.csproj.CopyComplete
+C:\Users\Sravani Kashetti\source\repos\WebApplication4\businesslogic1\obj\Debug\businesslogic1.dll
+C:\Users\Sravani Kashetti\source\repos\WebApplication4\businesslogic1\obj\Debug\businesslogic1.pdb
