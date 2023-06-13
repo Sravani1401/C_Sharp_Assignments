@@ -1,0 +1,15 @@
+C:\Users\Sravani Kashetti\source\repos\DotNetCoreConsole\DotNetCoreConsole\bin\Debug\net6.0\DotNetCoreConsole.exe
+C:\Users\Sravani Kashetti\source\repos\DotNetCoreConsole\DotNetCoreConsole\bin\Debug\net6.0\DotNetCoreConsole.deps.json
+C:\Users\Sravani Kashetti\source\repos\DotNetCoreConsole\DotNetCoreConsole\bin\Debug\net6.0\DotNetCoreConsole.runtimeconfig.json
+C:\Users\Sravani Kashetti\source\repos\DotNetCoreConsole\DotNetCoreConsole\bin\Debug\net6.0\DotNetCoreConsole.dll
+C:\Users\Sravani Kashetti\source\repos\DotNetCoreConsole\DotNetCoreConsole\bin\Debug\net6.0\DotNetCoreConsole.pdb
+C:\Users\Sravani Kashetti\source\repos\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\net6.0\DotNetCoreConsole.csproj.AssemblyReference.cache
+C:\Users\Sravani Kashetti\source\repos\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\net6.0\DotNetCoreConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sravani Kashetti\source\repos\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\net6.0\DotNetCoreConsole.AssemblyInfoInputs.cache
+C:\Users\Sravani Kashetti\source\repos\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\net6.0\DotNetCoreConsole.AssemblyInfo.cs
+C:\Users\Sravani Kashetti\source\repos\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\net6.0\DotNetCoreConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sravani Kashetti\source\repos\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\net6.0\DotNetCoreConsole.dll
+C:\Users\Sravani Kashetti\source\repos\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\net6.0\refint\DotNetCoreConsole.dll
+C:\Users\Sravani Kashetti\source\repos\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\net6.0\DotNetCoreConsole.pdb
+C:\Users\Sravani Kashetti\source\repos\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\net6.0\DotNetCoreConsole.genruntimeconfig.cache
+C:\Users\Sravani Kashetti\source\repos\DotNetCoreConsole\DotNetCoreConsole\obj\Debug\net6.0\ref\DotNetCoreConsole.dll
