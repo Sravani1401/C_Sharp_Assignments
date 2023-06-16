@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+{
+  "version": 2,
+  "dgSpecHash": "EXureWr/ZLr7SZunKJmbGhwh1o3GzZCekksLjSyBEIyW+ZT27hbB1bFA1z5LGH3a3UCh8V0LrGv9qBz4J92o0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sravani Kashetti\\source\\repos\\C_Sharp_Assignments\\Internal\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+=======
 {
   "version": 2,
   "dgSpecHash": "rv8b2MIkic0MG46fJ3BWaYJr3qM/OrLmEF/Fd1nTMp7tEr7W6g97Vafop3wvlxG0GvcpM4k5d09gIWvtrCi98w==",
@@ -5,4 +14,5 @@
   "projectFilePath": "C:\\Users\\Hi\\source\\repos\\Internal\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
+>>>>>>> d094bc957d6bdcd590f18d6f9ba3ea5eb290ab28
 }

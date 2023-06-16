@@ -1,0 +1,12 @@
+C:\Users\Sravani Kashetti\Source\Repos\C_Sharp_Assignments\Internal\BusinessModel\bin\Debug\net7.0\BusinessModel.deps.json
+C:\Users\Sravani Kashetti\Source\Repos\C_Sharp_Assignments\Internal\BusinessModel\bin\Debug\net7.0\BusinessModel.dll
+C:\Users\Sravani Kashetti\Source\Repos\C_Sharp_Assignments\Internal\BusinessModel\bin\Debug\net7.0\BusinessModel.pdb
+C:\Users\Sravani Kashetti\Source\Repos\C_Sharp_Assignments\Internal\BusinessModel\obj\Debug\net7.0\BusinessModel.csproj.AssemblyReference.cache
+C:\Users\Sravani Kashetti\Source\Repos\C_Sharp_Assignments\Internal\BusinessModel\obj\Debug\net7.0\BusinessModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sravani Kashetti\Source\Repos\C_Sharp_Assignments\Internal\BusinessModel\obj\Debug\net7.0\BusinessModel.AssemblyInfoInputs.cache
+C:\Users\Sravani Kashetti\Source\Repos\C_Sharp_Assignments\Internal\BusinessModel\obj\Debug\net7.0\BusinessModel.AssemblyInfo.cs
+C:\Users\Sravani Kashetti\Source\Repos\C_Sharp_Assignments\Internal\BusinessModel\obj\Debug\net7.0\BusinessModel.csproj.CoreCompileInputs.cache
+C:\Users\Sravani Kashetti\Source\Repos\C_Sharp_Assignments\Internal\BusinessModel\obj\Debug\net7.0\BusinessModel.dll
+C:\Users\Sravani Kashetti\Source\Repos\C_Sharp_Assignments\Internal\BusinessModel\obj\Debug\net7.0\refint\BusinessModel.dll
+C:\Users\Sravani Kashetti\Source\Repos\C_Sharp_Assignments\Internal\BusinessModel\obj\Debug\net7.0\BusinessModel.pdb
+C:\Users\Sravani Kashetti\Source\Repos\C_Sharp_Assignments\Internal\BusinessModel\obj\Debug\net7.0\ref\BusinessModel.dll

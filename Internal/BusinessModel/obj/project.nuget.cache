@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+{
+  "version": 2,
+  "dgSpecHash": "AsuXSoTEV1sfEgYac+/X2faKPC1O7ngO78Kp1IOUb+5Q8HgH4jnXSJRyt4TnCIgqwF5a3fTQapj1xNU15Bu9BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sravani Kashetti\\source\\repos\\C_Sharp_Assignments\\Internal\\BusinessModel\\BusinessModel.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+=======
 {
   "version": 2,
   "dgSpecHash": "C8Tw1Lo/MG1nwcmaloiAehRxUwygLIoJ1QHO6vdclhsF8idy7JqcvduPWftYTy8H5W7zZhqJgXUnVM4LD2PQig==",
@@ -5,4 +14,5 @@
   "projectFilePath": "C:\\Users\\Hi\\source\\repos\\Internal\\BusinessModel\\BusinessModel.csproj",
   "expectedPackageFiles": [],
   "logs": []
+>>>>>>> d094bc957d6bdcd590f18d6f9ba3ea5eb290ab28
 }

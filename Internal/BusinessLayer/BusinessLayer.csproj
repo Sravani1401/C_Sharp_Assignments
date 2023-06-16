@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessModel\BusinessModel.csproj" />
+    <ProjectReference Include="..\DataTlayer\DataTlayer.csproj" />
+  </ItemGroup>
+
+</Project>
+=======
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
@@ -11,3 +27,4 @@
   </ItemGroup>
 
 </Project>
+>>>>>>> d094bc957d6bdcd590f18d6f9ba3ea5eb290ab28
