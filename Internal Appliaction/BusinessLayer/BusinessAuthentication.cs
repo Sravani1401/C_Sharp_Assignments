@@ -5,7 +5,7 @@ namespace BusinessLayer
     /// <summary>
     /// Business Authentication for Validation of login and register
     /// </summary>
-    internal class BusinessAuthentication:IInterfaceBAL
+    internal class BusinessAuthentication : IBAL
     {
         /// <summary>
         /// Method for Login validaton
@@ -16,7 +16,8 @@ namespace BusinessLayer
 
             DataFactory dataFactoryObj = new DataFactory();
             IInterfacemethods ds = dataFactoryObj.DataAuthenticationmethod();
-            if (ds.IsLogin(user))
+           
+            if (ds.CheckLogin(user))
             {
                 return true;
             }
@@ -31,7 +32,7 @@ namespace BusinessLayer
             DataFactory dataFactoryObj = new DataFactory();
             IInterfacemethods ds = dataFactoryObj.DataAuthenticationmethod();
 
-            if (ds.IsRegistered(user))
+            if (ds.CheckRegistration(user))
             {
                 return true;
             }

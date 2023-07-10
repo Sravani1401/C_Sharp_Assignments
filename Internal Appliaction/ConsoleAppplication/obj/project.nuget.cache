@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2wHj4929xeGlfV1jAUth55kI2N28P+zD5bQ6CoT3ZveKIhemMdaxt+n8JQ/c0F7PEK9MlTfmMxW3W+qGoXlqjw==",
+  "dgSpecHash": "bMvkZA1oA/W9J1LEBKVUn5zzL61TBdQKYTP57OiH3UiOnMdo36B/zbD4B6vR71stuSUDjzGxflKbVU6niEcZqQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sravani Kashetti\\source\\repos\\Internal Appliaction\\ConsoleAppplication\\ConsoleAppplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Sravani Kashetti\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Sravani Kashetti\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

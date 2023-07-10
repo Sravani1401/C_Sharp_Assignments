@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6FIvdwLu2joeU8H2ivIaMMaklTRI9ff9xHhE0EW7VvlFf2OeKGHqXQsJ8WrByoX27qVvNiANwHAMEPrKfYIsxg==",
+  "dgSpecHash": "lr7lPBZp+oh/DDQ1dY6D5o67TZPApjKIVQzHVQzBxepnmcnCGVU3zjYHJgYnDJTyzIP+WTg7zTKZh0ELEt8FsA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sravani Kashetti\\source\\repos\\Internal Appliaction\\BusinessModel\\BusinessModel.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Sravani Kashetti\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Sravani Kashetti\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

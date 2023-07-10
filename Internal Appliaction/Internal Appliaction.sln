@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppplication", "ConsoleAppplication\ConsoleAppplication.csproj", "{A8B3827C-599B-40E7-96E6-D53ABF75EDDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppplication", "ConsoleAppplication\ConsoleAppplication.csproj", "{A8B3827C-599B-40E7-96E6-D53ABF75EDDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{7C17B6F1-A5A1-455D-9FB0-C16CA57535BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "DataLayer\DataLayer.csproj", "{7C17B6F1-A5A1-455D-9FB0-C16CA57535BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessModel", "BusinessModel\BusinessModel.csproj", "{64D12843-6607-42B4-9221-7F214174AB5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessModel", "BusinessModel\BusinessModel.csproj", "{64D12843-6607-42B4-9221-7F214174AB5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{B4C3EA0A-CC89-438C-B205-9BCD191F2E50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{B4C3EA0A-CC89-438C-B205-9BCD191F2E50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModels", "DataModels\DataModels.csproj", "{B87093C8-CE89-4855-8233-7D5EAEEB35F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B4C3EA0A-CC89-438C-B205-9BCD191F2E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4C3EA0A-CC89-438C-B205-9BCD191F2E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4C3EA0A-CC89-438C-B205-9BCD191F2E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87093C8-CE89-4855-8233-7D5EAEEB35F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87093C8-CE89-4855-8233-7D5EAEEB35F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87093C8-CE89-4855-8233-7D5EAEEB35F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87093C8-CE89-4855-8233-7D5EAEEB35F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

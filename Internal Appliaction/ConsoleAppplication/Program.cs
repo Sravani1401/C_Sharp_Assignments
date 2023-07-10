@@ -3,7 +3,7 @@ using BusinessModel;
 using System.Text.RegularExpressions;
 public class Program
 {
-    public enum Choice 
+    public enum Choice
     {
         Register = 1,
         Login = 2

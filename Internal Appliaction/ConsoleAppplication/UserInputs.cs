@@ -13,10 +13,10 @@ namespace ConsoleAppplication
 
         public void RegisterInput()
         {
-           
+
             Users userObj = new Users();
             ConsoleAuthentication Consoleobj2 = new ConsoleAuthentication();
-            //BusinessValidations valid = new BusinessValidations();
+
             BALfactory BalFactoryObj = new BALfactory();
             IBALValidations bsValid = BalFactoryObj.BusinessValidationsMethod();
 

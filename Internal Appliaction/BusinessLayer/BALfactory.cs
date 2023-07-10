@@ -5,7 +5,7 @@
     /// </summary>
     public class BALfactory
     {
-        public IInterfaceBAL BusinessAuthenticationMethod()
+        public IBAL BusinessAuthenticationMethod()
         {
             return new BusinessAuthentication();
         }
